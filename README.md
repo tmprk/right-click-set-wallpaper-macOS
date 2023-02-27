@@ -12,6 +12,10 @@ https://user-images.githubusercontent.com/49933688/221522790-7be8675c-ce18-4e7e-
 2. Double click the workflow, and it will install automatically
 3. Right-click on any image in Finder and navigate to "Quick Actions" -> "SetWallpaper"
 
+## Features
+
+- will not overwrite your input image, instead, it creates a copy
+
 ## Debug
 
 If it's not working, check System Preferences -> Extensions -> Finder and check to see it is enabled. Worst case, you can open it in automator and tweak to your liking.
