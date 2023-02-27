@@ -1,4 +1,4 @@
-# macOS quick action for setting wallpapers from images
+# macOS quick action for setting wallpapers from Finder
 
 No one has time to open to system preferences and set new wallpapers! This quick action can save you a couple seconds of your valuable time 😬
 
